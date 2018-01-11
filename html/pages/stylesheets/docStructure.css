@@ -57,7 +57,7 @@ nav, article, aside, footer {
 
 nav {
   height: 50px;
-  background-color: green;
+  background-color: grey;
   display: flex;
   margin-bottom: 5px;
 }
